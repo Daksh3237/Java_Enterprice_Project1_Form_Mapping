@@ -1,4 +1,4 @@
-//Name: Sudin and Daksh
+
 package ca.sheridancollege.daksh.controllers;
 
 import java.io.IOException;
